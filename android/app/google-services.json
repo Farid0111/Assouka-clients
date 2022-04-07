@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "840487966670",
+    "project_id": "assouka-benin",
+    "storage_bucket": "assouka-benin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840487966670:android:f639ffb897f1a2b6d6bd9f",
+        "android_client_info": {
+          "package_name": "com.dcc.assouka.assouka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840487966670-fje5qjslvoqe14jh1stc3r7nl4dtp2cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dcc.assouka.assouka",
+            "certificate_hash": "67e6decf9ccf5acac60b54d220da209c9db42afb"
+          }
+        },
+        {
+          "client_id": "840487966670-4qcgo28d0elrhv4h5bkemvqe251keu4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5tGEE6sEP0XfZV-xEOHrK4rGUtd4Vduw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840487966670-4qcgo28d0elrhv4h5bkemvqe251keu4q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "840487966670-jrp25h194fnc3rms71ei012ou1j9m3mc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dcc.assouka.assouka"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840487966670:android:74926efb2dc3d327d6bd9f",
+        "android_client_info": {
+          "package_name": "com.dcc.chef.assouka.assoucka_chef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840487966670-4qcgo28d0elrhv4h5bkemvqe251keu4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5tGEE6sEP0XfZV-xEOHrK4rGUtd4Vduw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840487966670-4qcgo28d0elrhv4h5bkemvqe251keu4q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "840487966670-jrp25h194fnc3rms71ei012ou1j9m3mc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dcc.assouka.assouka"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
